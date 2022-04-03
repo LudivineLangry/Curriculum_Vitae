@@ -1,0 +1,49 @@
+#carré{
+	width: 240px;
+    height: 950px;
+    background-color: #87CEFA;
+    opacity: 100%;
+}
+
+#rectangle{
+	width: 200px;
+    height: 500px;
+    background-color: #87CEFA;
+}
+
+#triangle.bas{
+    width: 0;
+    height: 0;
+    border-left: 1920px solid transparent;
+    border-bottom: 100px solid gray;
+    opacity: 0.9;
+    background-color: #FFFFFF; 
+}
+
+#image{
+	float: left;
+}
+
+#haut{
+	width: 500px;
+	height: 200px;
+	background-color: #FFFFFF;
+}
+
+.bleu{
+	width: 850px;
+    height: 190px;
+    background-color: #00BFFF;
+    opacity: 100%;
+}
+
+.table{
+	height: 50px;
+	width: 20px;
+	border-collapse:collapse
+	border: 1px solid black
+}
+
+.police{
+	font-size: 2%;
+}
